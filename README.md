@@ -12,5 +12,6 @@ Currently improving my coding skills: C, C++, JS, Python.</br>
 
 ### Find me 🌏
 
-[![Linkedin Badges](https://www.linkedin.com/in/umesh-chandra-2928a6220/detail/assessments/C++/report/) [LinkedIn](https://www.linkedin.com/)</br>
+[![Linkedin Badge](https://www.linkedin.com/in/umesh-chandra-2928a6220/detail/assessments/C++/report/)
+[LinkedIn](https://www.linkedin.com/)</br>
 **[MrCuber](mrcuber20.wixsite.com/website)**
