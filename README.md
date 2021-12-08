@@ -2,7 +2,7 @@
 
 Iam a ~~Web Designer~~ Student with UI design skills from VIT Chennai.
 
-Since 2020 I've been living and breathing with Programming.
+Since 2020 I've been living with Programming.
 
 I'm always trying to grow and learn something new.
 
