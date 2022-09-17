@@ -1,6 +1,6 @@
 ### Hey, I'm Umesh Chandra! 🤞
 
-Iam a ~~Web Designer~~ Student with UI design skills from VIT Chennai.
+Iam a ~~Web Designer~~ Student with UI designing and programming skills from VIT Chennai.
 
 Since 2020 I've been living with Programming.
 
