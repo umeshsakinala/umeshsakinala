@@ -8,7 +8,7 @@ I'm always trying to grow and learn something new.
 
 ### I'm focusing on 💻
 
-Currently improving my coding skills: C, C++, JS, Python.</br>
+Currently improving my skills in: C#, MySQL.</br>
 
 ### Find me 🌏
 
