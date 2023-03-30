@@ -15,3 +15,5 @@ Currently improving my skills in: C#, MySQL.</br>
 <a href="https://www.umeshchandra.in" target="_blank"><img src="https://github.com/MrCuber/MrCuber/blob/main/Logo.png" height="50px"></a>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+[![An image of @mrcuber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcuber)](https://holopin.io/@mrcuber)
