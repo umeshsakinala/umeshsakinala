@@ -29,7 +29,7 @@ Currently improving my skills in: C#, MySQL.</br>
 [![An image of @mrcuber's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mrcuber)](https://holopin.io/@mrcuber)
 
 ### Here's My GITHUB Stats
-![Umesh GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcuber&show_icons=true&theme=radical) 
+<!-- ![Umesh GitHub stats](https://github-readme-stats.vercel.app/api?username=mrcuber&show_icons=true&theme=radical)  -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrcuber&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrcuber)](https://github.com/ryo-ma/github-profile-trophy)
 
