@@ -33,4 +33,4 @@ Currently improving my skills in: C#, MySQL.</br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrcuber&theme=radical)](https://git.io/streak-stats) 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrcuber)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![MrCuber's GitHub | Languages Over Time](https://stats.quine.sh/MrCuber/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MrCuber)
+<!-- [![MrCuber's GitHub | Languages Over Time](https://stats.quine.sh/MrCuber/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=MrCuber) -->
