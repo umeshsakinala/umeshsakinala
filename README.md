@@ -1,11 +1,11 @@
 ### Hey, I'm Umesh Chandra! 🤞
 
-<!-- Iam a ~~Web Designer~~ Student with WEB designing and programming skills from VIT Chennai.
+Iam a ~~Web Designer~~ Student with WEB designing and programming skills from VIT Chennai.
 
 Since 2020 I've been living with Programming.
 
 I'm always trying to grow and learn something new.
-### I'm focusing on 💻 -->
+### I'm focusing on 💻
 
 Currently improving my skills in: C#.</br>
 <!-- ### Here's the languages that I am currently working on:
