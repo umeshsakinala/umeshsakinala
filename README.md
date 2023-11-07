@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=MrCuber&style=for-the-badge&color=blueviolet)
 ### Hey, I'm Umesh Chandra! 🤞
 
 Iam a ~~Web Designer~~ Student with WEB designing and programming skills from VIT Chennai.
@@ -8,6 +9,7 @@ I'm always trying to grow and learn something new.
 ### I'm focusing on 💻
 
 Currently improving my skills in: C#.</br>
+
 <!-- ### Here's the languages that I am currently working on:
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
