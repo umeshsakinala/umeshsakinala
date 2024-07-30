@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 ## Latest Blog Posts
 
-- 📝 **[Support Vector Machine(SVM) with Python](https://umeshchandra.in/2024/05/01/support-vector-machinesvm-with-python/)**: Steps to SVM using Python
-- 📝 **[Understanding Support Vector Machines (SVM)](https://umeshchandra.in/2024/04/19/understanding-support-vector-machines-svm/)**: A beginner's guide to the SVM.
+- 📝 **[Understanding Stemming in NLP:An Overview of Key Algorithms](https://umeshchandra.in/2024/07/30/understanding-stemming-in-nlpan-overview-of-key-algorithms/)**: Understanding Stemming and its types
+- 📝 **[Efficiency and Latency with Spin Locks: Exploring Mechanism, Use Cases, and Alternatives](https://umeshchandra.in/2024/07/15/efficiency-and-latency-with-spin-locks-exploring-mechanism-use-cases-and-alternatives/)**: Dive into the mechanisms, use cases, and alternatives to spin locks in concurrent programming.
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
