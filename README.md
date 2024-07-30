@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=MrCuber&style=for-the-badge&color=blueviolet)
-# mrCuber
+# MrCuber
 # Hi there, I'm Umesh Chandra! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and constantly exploring new technologies to create innovative solutions. Here's a bit about me:
