@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 - 💻 **Languages & Tools**: Proficient in **Java**, **C++**, **JavaScript**, **Python**, and experienced with various frameworks and tools.
 - 🌱 **Currently Learning**: Advancing my skills in **AI/ML** and **cloud computing**.
-- 🛠️ **Projects**: I love working on open-source projects and contributing to the community.
 - 📫 **How to Reach Me**: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umeshchandrasakinala/) or drop me an email at **umesh.sakinala20@gmail.com**.
 
 <!-- ### Here's the languages that I am currently working on:
