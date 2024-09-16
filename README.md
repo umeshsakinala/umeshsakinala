@@ -24,16 +24,16 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly explori
 
 <div align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrcuber&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrcuber)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umeshsakinala&theme=radical)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=umeshsakinala)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ## Featured Repositories
 
-- 🌟 **[Tracalorie]([https://github.com/MrCuber/Tracalorie])**: It is a javascript Project based on tracking the calories intake to our body, It utilizes the concept of OOPs and it is totally Object Oriented Programming.
-- 🌟 **[Speech Emotion Recognition]([https://github.com/MrCuber/Speech-Emotion-Recognition])**:This project aims to harness the power of machine learning to detect and classify emotions from spoken language.
-- 🌟 **[Product-Rating-and-Review-Platform]([https://github.com/MrCuber/Product-Rating-and-Review-Platform])**:Product Helpers enables users to submit detailed reviews and ratings for products.
+- 🌟 **[Tracalorie]([https://github.com/UmeshSakinala/Tracalorie])**: It is a javascript Project based on tracking the calories intake to our body, It utilizes the concept of OOPs and it is totally Object Oriented Programming.
+- 🌟 **[Speech Emotion Recognition]([https://github.com/UmeshSakinala/Speech-Emotion-Recognition])**:This project aims to harness the power of machine learning to detect and classify emotions from spoken language.
+- 🌟 **[Product-Rating-and-Review-Platform]([https://github.com/UmeshSakinala/Product-Rating-and-Review-Platform])**:Product Helpers enables users to submit detailed reviews and ratings for products.
 
 ## Latest Blog Posts
 
